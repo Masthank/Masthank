@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karamalla Masthan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="[![Uploading image.png…]()
-](https://github.com/Masthank/Masthank/assets/123854764/8b2033da-034d-4e3b-8f8d-c60e9278836c)" ></img>
+<img align="right" alt="coding" width="400" src="https://github.com/Masthank/Masthank/assets/123854764/8b2033da-034d-4e3b-8f8d-c60e9278836c" ></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masthank&label=Profile%20views&color=0e75b6&style=flat" alt="masthank" /> </p>
 
