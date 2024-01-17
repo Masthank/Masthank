@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **karamallamasthan65@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/gjm14](https://shorturl.at/gjm14)
+- 📄 Know about my experiences [https://shorturl.at/ajmqE]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
